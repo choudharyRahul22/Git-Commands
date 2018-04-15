@@ -19,5 +19,5 @@ Master & Branch:
 
 Status:
 -------
-git status // You can verify which branch you are on using
-git branch -r // If you want a list of the available branches (in the remote repo) execute
+1. git status // You can verify which branch you are on using
+2. git branch -r // If you want a list of the available branches (in the remote repo) execute
