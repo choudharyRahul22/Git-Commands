@@ -2,13 +2,11 @@
 
 General Commands:
 ----------------
-git clone repo-name // clone git repo to local system
-git add . // add all in present directory
-git commit -m "comment" // commit changes to git with comment
-git push // push all changes
-
-git pull // update local git from remote git
-
+1. git clone repo-name // clone git repo to local system
+2. git add . // add all in present directory
+3. git commit -m "comment" // commit changes to git with comment
+4. git push // push all changes
+5. git pull // update local git from remote git
 
 Master & Branch:
 ----------------
